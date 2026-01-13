@@ -1,6 +1,6 @@
 # Hi, I’m Sabin Thapa 👋  
 **PhD Candidate in Physics (Kent State University, expected 2026)**  
-Theoretical High-Energy Nuclear Physics • Quarkonium Transport in QGP • Open Quantum Systems • Quantum Computing
+Theoretical (Phenomenological) High-Energy Physics or Nuclear Physics • Heavy Ion Physics • Heavy Flavor Production and Modification in Heavy Ion Collisions and Small Collisions in LHC AND RHIC • Quarkonium Transport in QGP • Open Quantum Systems • Quantum Computing
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sabinthapa100&label=Profile%20Views&color=0e75b6&style=flat" alt="sabinthapa100" />
