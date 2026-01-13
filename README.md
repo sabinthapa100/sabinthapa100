@@ -16,8 +16,8 @@ I’m also learning **AI/ML** and exploring how it can support scientific workfl
 
 ## 🔬 Research Focus
 - **Quarkonium transport in QGP:** suppression and phenomenology in \(p\)–Pb and \(AA\) collisions (RHIC/LHC).
-- **Semi-classical modeling:** kinetic-rate / transport frameworks and data-facing comparisons.
-- **Open Quantum Systems (quantum transport):** Lindblad-based real-time evolution for heavy quarkonium in hot nuclear matter.
+- **Quantum Transport:** Using Open Quantum Systems (coupled to pNRQCD), Lindblad-based real-time evolution for heavy quarkonium in hot nuclear matter.
+- **Semi-classical modeling:** kinetic-rate / transport frameworks (semiclassical with rates computed from perturbative or non-perturbative ways).
 - **Quantum computing for HEP:** lattice gauge theory workflows (state preparation, adiabatic, variational methods, benchmarking), scattering experiments (real-time dynamics).
 - **Scientific computing & reproducibility:** simulation pipelines, analysis, plotting, and version-controlled research code.
 
@@ -59,7 +59,6 @@ I’m also learning **AI/ML** and exploring how it can support scientific workfl
 - **IBM Certified Associate Qiskit Developer** (IBM Quantum Challenge 2024)
 - **Global Quantum Scholarship (QWorld, 2023)**
 - **Graduate Student Senate Research Award (~$2000)** — quantum algorithms for HEP / SU(2) LGT project
-- **Golden Jubilee Scholarship (2014)** — Indian Embassy, Kathmandu (undergraduate)
 
 ---
 
