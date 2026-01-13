@@ -18,7 +18,7 @@ I’m also learning **AI/ML** and exploring how it can support scientific workfl
 - **Quarkonium transport in QGP:** suppression and phenomenology in \(p\)–Pb and \(AA\) collisions (RHIC/LHC).
 - **Semi-classical modeling:** kinetic-rate / transport frameworks and data-facing comparisons.
 - **Open Quantum Systems (quantum transport):** Lindblad-based real-time evolution for heavy quarkonium in hot nuclear matter.
-- **Quantum computing for HEP:** lattice gauge theory workflows (state preparation, variational methods, benchmarking).
+- **Quantum computing for HEP:** lattice gauge theory workflows (state preparation, adiabatic, variational methods, benchmarking), scattering experiments (real-time dynamics).
 - **Scientific computing & reproducibility:** simulation pipelines, analysis, plotting, and version-controlled research code.
 
 ---
